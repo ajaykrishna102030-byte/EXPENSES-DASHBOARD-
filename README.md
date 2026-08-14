@@ -14,6 +14,7 @@ An automated company expense-tracking dashboard built in Excel, using a macro-dr
 - **Currency:** INR (₹)
 - **Departments:** Sales, Engineering, Marketing, HR, Finance, Operations
 - **Categories:** Software, Marketing, Office Supplies, Equipment, Consulting, Travel, Utilities, Training
+  "C:\Users\Ajay Krishna\OneDrive\사진\Screenshots\Screenshot 2026-08-14 153253.png"
 - **Payment Methods:** Cash, Credit Card, Cheque, Bank Transfer
 
 ## 🗂️ Workbook Structure
